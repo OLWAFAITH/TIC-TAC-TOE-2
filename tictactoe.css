@@ -1,0 +1,231 @@
+#image{
+    background-image: url(images/Annotation\ 2021-10-14\ 131023.png);
+    
+}
+#information{
+    background-image: url(images/weblogo.jpg);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 300px;
+    height: 700px;
+    margin-left: 550px;
+    margin-top: 50px;
+    background-color: greenyellow;
+}
+#nameing{
+    margin-top: -5px;
+    text-align: center;
+}
+#smart{
+    margin-top: 100px;
+    text-align: center;
+    font-size: larger;
+}
+#playerone{
+    width: 100px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+#playertwo{
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 80px;
+    text-align: center;
+}
+
+#tutorial{
+    height: 300px;
+    width: 300px;
+    
+}
+#empire{
+    color: black;
+    text-align: center;
+}
+#playground{
+    border: 10px solid black;
+    width: 660px;
+    margin-left: 860px;
+    margin-top: -705px;
+    height: 700px;
+    background-color: greenyellow;
+}
+#table {
+    border-spacing: 5px;
+}
+.in{
+    height:390px;
+    margin-left: 40%;
+    position: relative;
+    top:15px;
+    border-radius: 15px;
+    margin-top: -500px;
+}
+#body{
+    margin-top: 20px;
+    margin-left: 150px;
+    height: 150px;
+}
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine{
+    width:124px;
+    margin:0px auto;
+    height:124px;
+    border-radius: 15px;
+    font-size: 5rem;
+    font-family:'lucida Handwriting';
+    color:#fff;
+    outline:none;
+    border:0;
+    background-color: transparent;
+}
+#one{
+    border-right: 3px solid #837F7F;
+    border-bottom: 3px solid #837F7F;
+}
+#two{
+    border-left: 3px solid #837F7F;
+    border-bottom: 3px solid #837F7F;
+    border-right: 3px solid #837F7F;
+}
+#three{
+    border-left: 3px solid #837F7F;
+    border-bottom: 3px solid #837F7F;
+}
+#four{
+    border-top: 3px solid #837F7F;
+    border-right: 3px solid #837F7F;
+    border-bottom: 3px solid #837F7F;
+}
+#five{
+    border-right: 3px solid #837F7F;
+    border-top: 3px solid #837F7F;
+    border-left: 3px solid #837F7F;
+    border-bottom: 3px solid #837F7F;
+}
+#six{
+    border-left: 3px solid #837F7F;
+    border-top: 3px solid #837F7F;
+    border-bottom: 3px solid #837F7F;
+}
+#seven{
+    border-right: 3px solid #837F7F;
+    border-top: 3px solid #837F7F;
+}
+#eight{
+    border-right: 3px solid #837F7F;
+    border-left: 3px solid #837F7F;
+    border-top: 3px solid #837F7F;
+}
+#nine{
+    border-left: 3px solid #837F7F;
+    border-top: 3px solid #837F7F;
+}
+#scoreboard{
+    width: fit-content;
+    margin:30 auto;
+    color: #fff;
+}
+#begingame{
+    border-radius: 20px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#res{
+     text-align: center;
+     font-size: 30px;
+    color: black;
+    /* margin-top: 50px; */
+    width: 250px;
+}
+#good{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    margin-top: -25px;
+    margin-left: 300px;
+}
+#showing{
+    
+    color: black;
+    /* margin-top: 20px; */
+    margin-left: 150px;
+    width: 300px;
+}
+#showing2{
+    
+    color: black;
+    /* margin-top: -5px; */
+    margin-left: 150px;
+    width: 300px;
+    font-style: oblique;
+}
+#gun{
+    border: 10px solid black;
+    text-align: center;
+
+}
+#scoreboard{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100px;    
+    height: 20px;
+    /* margin-top: 500px; */
+    margin-left: 200px;
+    background-color: white;
+    text-align: center;
+    color: black;
+}
+#scoreboard2{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100px;    
+    height: 20px;
+    margin-top: -50px;
+    margin-left: 400px;
+    background-color: white;
+    text-align: center;
+    
+}
+#replay{
+    border: none;
+    border-radius: 20px;
+    width: 100px;    
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color: white;
+    
+}
+#end{
+    border: none;
+    border-radius: 20px;
+    width: 100px;    
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 100px;
+    background-color: white;
+    
+}
+#coded{
+    display: none;
+}
+#nice{
+    display: none;
+}
+#poweron{
+    margin-left: 50px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+}
+#poweroff{
+    border-radius: 20px;
+    border: none;
+}
+.names-holder {
+    margin-top: 30px;
+}

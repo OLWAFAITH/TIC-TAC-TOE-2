@@ -1,0 +1,72 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="tictactoe.css">
+</head>
+<body id="image">
+    <div id="information">
+        <h1 id="nameing">TIC-TAC-TOE</h1> <br>
+
+        <h3 id="SMART">SMART EMPIRE GAMES</h3> 
+
+        <input type="name" id="playerone" placeholder="Player (One)"> <input id="playertwo" type="text" placeholder="Player (Two)"> 
+
+        <button onclick="You()" id="begingame">begin-game</button>
+                
+        <video controls src="video/How to play Tic Tac Toe.mp4" autopla loo id="tutorial"></video>
+       
+
+
+        <button id="poweron" onclick="son()">Power On</button>
+        <button id="poweroff" onclick="sof()">Power OFF</button>
+        
+        <h4 id="empire">Smart Empires Games &copy; &reg;  </h4>    
+
+    </div>
+
+    <div id="playground">
+        <div id="gun"></div>
+        <div class="winn"></div>
+            <div class="names-holder">
+                <div id="res"></div>
+                <div id="good"></div>
+                <div id="showing"></div> <br>
+                <div id="showing2"></div>
+            </div>
+            <table id="body">
+                <tr border:2px>
+                    <td><button id="one" onclick="show(event)"></button></td>
+                    <td><button id="two" onclick="show(event)"></button></td>
+                    <td><button id="three" onclick="show(event)"></button></td>
+                </tr>
+                <tr>
+                    <td><button id="four" onclick="show(event)"></button></td>
+                    <td><button id="five" onclick="show(event)"></button></td>
+                    <td><button id="six" onclick="show(event)"></button></td>
+                </tr>
+                <tr>
+                    <td><button id="seven" onclick="show(event)"></button></td>
+                    <td><button id="eight" onclick="show(event)"></button></td>
+                    <td><button id="nine" onclick="show(event)"></button></td>
+                </tr>
+            </table>
+
+            <div id="scoreboard">0</div>
+            <div id="scoreboard2">0</div>
+         <button id="replay" onclick="Continue()">Continue</button>
+         <button id="end" onclick="Session()">END SESSION</button>
+
+            
+           
+    </div>
+        <audio controls id="coded" src="audio/Twenty One Pilots - Car Radio.mp3" loop ></audio>
+        <audio controls id="nice" src="audio/Twenty One Pilots - Car Radio.mp3" loop ></audio>
+
+
+
+    <script src="tictactoe.js"></script>
+</body>
+</html>
